@@ -1,0 +1,100 @@
+
+> family-ordering@0.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v7.3.0[39m  [2mready in [0m[1m1199[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.61.32:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Browserslist: browsers data (caniuse-lite) is 10 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2m21:52:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m23:29:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx, /src/pages/admin/DishesPanel.tsx[22m
+[2m23:29:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx, /src/pages/admin/DishesPanel.tsx[22m
+[2m23:30:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m23:30:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m@cloudbase/js-sdk-v3[32m[39m
+[2m23:30:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m00:01:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m00:01:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAppData.tsx[22m Could not Fast Refresh ("useAppData" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:01:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/hooks/useAuth.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/EnterPage.tsx, /src/pages/WishPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/DishesPanel.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/MembersPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:01:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m00:01:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:01:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/EnterPage.tsx, /src/pages/WishPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:01:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m00:01:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAppData.tsx[22m Could not Fast Refresh ("useAppData" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:01:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/hooks/useAuth.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/EnterPage.tsx, /src/pages/WishPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/DishesPanel.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/MembersPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:01:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:01:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/EnterPage.tsx, /src/pages/WishPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:06:33[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m00:06:33[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m00:06:33[22m [36m[1m[vite][22m[39m server restarted.
+[2m00:11:46[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m00:11:46[22m [36m[1m[vite][22m[39m server restarted.
+[2m00:14:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m00:14:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAppData.tsx[22m Could not Fast Refresh ("useAppData" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:14:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/hooks/useAuth.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/DishesPanel.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx, /src/pages/admin/MembersPanel.tsx[22m
+[2m00:14:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:14:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:28:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m00:28:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAppData.tsx[22m Could not Fast Refresh ("useAppData" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:28:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/hooks/useAuth.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/DishesPanel.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx, /src/pages/admin/MembersPanel.tsx[22m
+[2m00:28:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:28:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:28:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m00:28:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAppData.tsx[22m Could not Fast Refresh ("useAppData" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:28:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/hooks/useAuth.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/DishesPanel.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx, /src/pages/admin/MembersPanel.tsx[22m
+[2m00:29:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:29:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m00:29:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m00:29:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAppData.tsx[22m Could not Fast Refresh ("useAppData" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:29:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/hooks/useAuth.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/DishesPanel.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx, /src/pages/admin/MembersPanel.tsx[22m
+[2m00:29:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:29:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/admin/AdminPage.tsx, /src/pages/MenuPage.tsx, /src/pages/DishDetailPage.tsx, /src/pages/MePage.tsx, /src/pages/TablePage.tsx, /src/pages/WishPage.tsx, /src/pages/EnterPage.tsx, /src/pages/admin/ForceChangePasswordDialog.tsx, /src/pages/admin/SettingsPanel.tsx, /src/pages/admin/OrdersPanel.tsx[22m
+[2m01:00:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/MenuPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/DishesPanel.tsx[22m
+[2m01:00:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:00:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:00:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:00:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:00:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:00:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:06:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/DishCard.tsx[22m
+[2m01:06:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/DishCard.tsx[22m
+[2m01:06:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/DishDetailPage.tsx, /src/index.css[22m
+[2m01:06:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:06:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/admin/DishesPanel.tsx[22m
+[2m01:06:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/admin/DishesPanel.tsx[22m
+[2m01:07:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/admin/DishesPanel.tsx[22m
+[2m01:30:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/MenuPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/DishesPanel.tsx[22m
+[2m01:30:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/MenuPage.tsx, /src/pages/TablePage.tsx, /src/pages/admin/DishesPanel.tsx[22m
+[2m01:30:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m01:30:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m01:30:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:30:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/hooks/useAppData.tsx[22m
+[2m01:32:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m01:32:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m01:32:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m01:32:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m01:32:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m01:32:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/hooks/useAppData.tsx, /src/index.css[22m
+[2m01:33:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/DishCard.tsx[22m
+[2m01:33:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/DishCard.tsx[22m
+[2m01:33:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/MenuPage.tsx, /src/index.css[22m
+[2m01:33:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/MenuPage.tsx, /src/index.css[22m
+[2m01:34:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/TablePage.tsx, /src/index.css[22m
+[2m01:34:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/TablePage.tsx, /src/index.css[22m
+[2m01:34:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/BottomTabBar.tsx, /src/index.css[22m
+[2m01:34:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m01:34:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m01:34:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m01:34:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m02:00:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/DishCard.tsx[22m

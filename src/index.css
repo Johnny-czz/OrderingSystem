@@ -1,0 +1,203 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* 暖色食欲系主色：#E4572E / #FF7A45 / #C93F1B */
+    --background: 28 100% 97.5%;
+    --foreground: 16 15% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 16 15% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 16 15% 15%;
+    --primary: 13.5 77% 53.7%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 24 60% 95%;
+    --secondary-foreground: 12 76% 45%;
+    --muted: 24 40% 94%;
+    --muted-foreground: 22 13% 37%;
+    --accent: 17 100% 94%;
+    --accent-foreground: 12 76% 45%;
+    --destructive: 0 64% 55%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 24 30% 88%;
+    --input: 24 30% 88%;
+    --ring: 13.5 77% 53.7%;
+    --radius: 1.125rem;
+
+    --success: 144 55% 40%;
+    --warning: 36 88% 59%;
+
+    --sidebar-background: 28 100% 97.5%;
+    --sidebar-foreground: 16 15% 15%;
+    --sidebar-primary: 13.5 77% 53.7%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 17 100% 94%;
+    --sidebar-accent-foreground: 12 76% 45%;
+    --sidebar-border: 24 30% 88%;
+    --sidebar-ring: 13.5 77% 53.7%;
+  }
+
+  .dark {
+    --background: 24 10% 10%;
+    --foreground: 28 30% 96%;
+    --card: 24 8% 14%;
+    --card-foreground: 28 30% 96%;
+    --popover: 24 8% 14%;
+    --popover-foreground: 28 30% 96%;
+    --primary: 17 90% 58%;
+    --primary-foreground: 24 20% 12%;
+    --secondary: 24 8% 20%;
+    --secondary-foreground: 28 30% 96%;
+    --muted: 24 8% 20%;
+    --muted-foreground: 24 10% 68%;
+    --accent: 24 12% 22%;
+    --accent-foreground: 28 30% 96%;
+    --destructive: 0 62% 48%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 24 8% 24%;
+    --input: 24 8% 24%;
+    --ring: 17 90% 58%;
+
+    --success: 144 45% 45%;
+    --warning: 36 80% 55%;
+
+    --sidebar-background: 24 10% 10%;
+    --sidebar-foreground: 28 30% 96%;
+    --sidebar-primary: 17 90% 58%;
+    --sidebar-primary-foreground: 24 20% 12%;
+    --sidebar-accent: 24 12% 22%;
+    --sidebar-accent-foreground: 28 30% 96%;
+    --sidebar-border: 24 8% 24%;
+    --sidebar-ring: 17 90% 58%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "HarmonyOS Sans SC",
+      "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior-y: none;
+  }
+
+  button:not(:disabled),
+  [role="button"] {
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@layer components {
+  /* 顶部/底部玻璃拟态栏 */
+  .glass-bar {
+    background: rgba(255, 252, 249, 0.82);
+    backdrop-filter: saturate(180%) blur(18px);
+    -webkit-backdrop-filter: saturate(180%) blur(18px);
+    border-color: rgba(228, 87, 46, 0.08);
+  }
+
+  .dark .glass-bar {
+    background: rgba(30, 26, 23, 0.82);
+    border-color: rgba(255, 255, 255, 0.06);
+  }
+
+  .phone-shell {
+    max-width: 430px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .card-shadow {
+    box-shadow: 0 6px 20px -8px rgba(150, 60, 25, 0.18), 0 2px 6px -2px rgba(150, 60, 25, 0.1);
+  }
+
+  .dark .card-shadow {
+    box-shadow: 0 6px 20px -8px rgba(0, 0, 0, 0.55), 0 2px 6px -2px rgba(0, 0, 0, 0.4);
+  }
+}
+
+@layer utilities {
+  .safe-bottom {
+    padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 0.5rem);
+  }
+
+  .safe-top {
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .animate-pop {
+    animation: pop 260ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  .animate-fade-up {
+    animation: fade-up 300ms ease-out both;
+  }
+
+  .animate-slide-in {
+    animation: slide-in 320ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-up {
+  0% {
+    transform: translateY(8px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in {
+  0% {
+    transform: translateY(18px);
+    opacity: 0.4;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-pop,
+  .animate-fade-up,
+  .animate-slide-in {
+    animation: none;
+  }
+}

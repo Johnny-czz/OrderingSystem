@@ -1,0 +1,863 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e23]:
+    - generic [ref=f1e24]:
+      - banner [ref=f1e25]:
+        - generic [ref=f1e27]:
+          - heading "我家小厨房" [level=1] [ref=f1e28]
+          - paragraph [ref=f1e29]: 今日餐桌 · 已开桌 · 小宝
+      - generic [ref=f1e30]:
+        - textbox "搜菜名、食材，比如「牛肉」「汤」" [ref=f1e32]
+        - generic [ref=f1e33]:
+          - button "全部" [ref=f1e34] [cursor=pointer]
+          - button "荤菜" [ref=f1e35] [cursor=pointer]
+          - button "素菜" [ref=f1e36] [cursor=pointer]
+          - button "汤羹" [ref=f1e37] [cursor=pointer]
+          - button "主食" [ref=f1e38] [cursor=pointer]
+          - button "凉菜" [ref=f1e39] [cursor=pointer]
+      - generic [ref=f1e1342]:
+        - generic [ref=f1e1343]:
+          - heading "我点的（1）" [level=2] [ref=f1e1344]
+          - generic [ref=f1e1345]: 共 1 份
+        - generic [ref=f1e1347]:
+          - generic [ref=f1e1353]: 红烧肉
+          - generic [ref=f1e1354]: ×1
+          - generic [ref=f1e1355]: 00:27
+          - button [ref=f1e1356] [cursor=pointer]
+      - generic [ref=f1e40]:
+        - heading "菜谱库 （70 道可选）" [level=2] [ref=f1e41]:
+          - text: 菜谱库
+          - generic [ref=f1e42]: （70 道可选）
+        - generic [ref=f1e43]:
+          - generic [ref=f1e44]:
+            - button "红" [ref=f1e45] [cursor=pointer]
+            - generic [ref=f1e50]:
+              - button [ref=f1e51] [cursor=pointer]:
+                - paragraph [ref=f1e53]: 红烧肉
+                - paragraph [ref=f1e54]: 肥瘦相间、色泽红亮，炖到筷子一夹就颤的经典家常硬菜
+              - generic [ref=f1e55]:
+                - generic [ref=f1e56]: 经典
+                - generic [ref=f1e57]: 下饭
+                - generic [ref=f1e58]: 宴客
+            - button "点红烧肉" [ref=f1e59] [cursor=pointer]:
+              - generic [ref=f1e1360]: "1"
+          - generic [ref=f1e61]:
+            - button "可" [ref=f1e62] [cursor=pointer]
+            - generic [ref=f1e67]:
+              - button [ref=f1e68] [cursor=pointer]:
+                - paragraph [ref=f1e70]: 可乐鸡翅
+                - paragraph [ref=f1e71]: 甜咸入味、孩子最爱，全程一口锅零失败
+              - generic [ref=f1e72]:
+                - generic [ref=f1e73]: 快手
+                - generic [ref=f1e74]: 孩子爱吃
+                - generic [ref=f1e75]: 零失败
+            - button "点可乐鸡翅" [ref=f1e76] [cursor=pointer]
+          - generic [ref=f1e78]:
+            - button "宫" [ref=f1e79] [cursor=pointer]
+            - generic [ref=f1e84]:
+              - button "宫保鸡丁 辣辣 糊辣荔枝味，花生米香脆，鸡肉滑嫩的经典川菜" [ref=f1e85] [cursor=pointer]:
+                - generic [ref=f1e86]:
+                  - paragraph [ref=f1e87]: 宫保鸡丁
+                  - generic [ref=f1e88]: 辣辣
+                - paragraph [ref=f1e89]: 糊辣荔枝味，花生米香脆，鸡肉滑嫩的经典川菜
+              - generic [ref=f1e90]:
+                - generic [ref=f1e91]: 川菜
+                - generic [ref=f1e92]: 下饭
+                - generic [ref=f1e93]: 经典
+            - button "点宫保鸡丁" [ref=f1e94] [cursor=pointer]
+          - generic [ref=f1e96]:
+            - button "鱼" [ref=f1e97] [cursor=pointer]
+            - generic [ref=f1e102]:
+              - button "鱼香肉丝 辣 酸甜微辣带蒜香，没有鱼却有鱼香味的下饭之王" [ref=f1e103] [cursor=pointer]:
+                - generic [ref=f1e104]:
+                  - paragraph [ref=f1e105]: 鱼香肉丝
+                  - generic [ref=f1e106]: 辣
+                - paragraph [ref=f1e107]: 酸甜微辣带蒜香，没有鱼却有鱼香味的下饭之王
+              - generic [ref=f1e108]:
+                - generic [ref=f1e109]: 川菜
+                - generic [ref=f1e110]: 下饭
+                - generic [ref=f1e111]: 经典
+            - button "点鱼香肉丝" [ref=f1e112] [cursor=pointer]
+          - generic [ref=f1e114]:
+            - button "糖" [ref=f1e115] [cursor=pointer]
+            - generic [ref=f1e120]:
+              - button [ref=f1e121] [cursor=pointer]:
+                - paragraph [ref=f1e123]: 糖醋排骨
+                - paragraph [ref=f1e124]: 酸甜挂汁、色泽琥珀，凉了也好吃的家常招牌
+              - generic [ref=f1e125]:
+                - generic [ref=f1e126]: 酸甜
+                - generic [ref=f1e127]: 孩子爱吃
+                - generic [ref=f1e128]: 宴客
+            - button "点糖醋排骨" [ref=f1e129] [cursor=pointer]
+          - generic [ref=f1e131]:
+            - button "土" [ref=f1e132] [cursor=pointer]
+            - generic [ref=f1e137]:
+              - button [ref=f1e138] [cursor=pointer]:
+                - paragraph [ref=f1e140]: 土豆炖牛肉
+                - paragraph [ref=f1e141]: 牛肉酥烂、土豆吸饱汤汁，一锅端上桌最省心
+              - generic [ref=f1e142]:
+                - generic [ref=f1e143]: 炖菜
+                - generic [ref=f1e144]: 家常
+                - generic [ref=f1e145]: 下饭
+            - button "点土豆炖牛肉" [ref=f1e146] [cursor=pointer]
+          - generic [ref=f1e148]:
+            - button "番" [ref=f1e149] [cursor=pointer]
+            - generic [ref=f1e154]:
+              - button [ref=f1e155] [cursor=pointer]:
+                - paragraph [ref=f1e157]: 番茄炒蛋
+                - paragraph [ref=f1e158]: 国民第一快手菜，汤汁拌饭能多吃一碗
+              - generic [ref=f1e159]:
+                - generic [ref=f1e160]: 快手
+                - generic [ref=f1e161]: 家常
+                - generic [ref=f1e162]: 零失败
+            - button "点番茄炒蛋" [ref=f1e163] [cursor=pointer]
+          - generic [ref=f1e165]:
+            - button "青" [ref=f1e166] [cursor=pointer]
+            - generic [ref=f1e171]:
+              - button "青椒肉丝 辣 肉丝滑嫩、青椒脆爽，五分钟就能上桌" [ref=f1e172] [cursor=pointer]:
+                - generic [ref=f1e173]:
+                  - paragraph [ref=f1e174]: 青椒肉丝
+                  - generic [ref=f1e175]: 辣
+                - paragraph [ref=f1e176]: 肉丝滑嫩、青椒脆爽，五分钟就能上桌
+              - generic [ref=f1e177]:
+                - generic [ref=f1e178]: 快手
+                - generic [ref=f1e179]: 下饭
+                - generic [ref=f1e180]: 家常
+            - button "点青椒肉丝" [ref=f1e181] [cursor=pointer]
+          - generic [ref=f1e183]:
+            - button "回" [ref=f1e184] [cursor=pointer]
+            - generic [ref=f1e189]:
+              - button "回锅肉 辣辣 先煮后炒，肉片卷成灯盏窝，香辣油润" [ref=f1e190] [cursor=pointer]:
+                - generic [ref=f1e191]:
+                  - paragraph [ref=f1e192]: 回锅肉
+                  - generic [ref=f1e193]: 辣辣
+                - paragraph [ref=f1e194]: 先煮后炒，肉片卷成灯盏窝，香辣油润
+              - generic [ref=f1e195]:
+                - generic [ref=f1e196]: 川菜
+                - generic [ref=f1e197]: 下饭
+                - generic [ref=f1e198]: 经典
+            - button "点回锅肉" [ref=f1e199] [cursor=pointer]
+          - generic [ref=f1e201]:
+            - button "蒜" [ref=f1e202] [cursor=pointer]
+            - generic [ref=f1e207]:
+              - button [ref=f1e208] [cursor=pointer]:
+                - paragraph [ref=f1e210]: 蒜蓉粉丝蒸排骨
+                - paragraph [ref=f1e211]: 蒸出来的排骨嫩而不柴，粉丝吸满汤汁最抢手
+              - generic [ref=f1e212]:
+                - generic [ref=f1e213]: 蒸菜
+                - generic [ref=f1e214]: 少油烟
+                - generic [ref=f1e215]: 宴客
+            - button "点蒜蓉粉丝蒸排骨" [ref=f1e216] [cursor=pointer]
+          - generic [ref=f1e218]:
+            - button "啤" [ref=f1e219] [cursor=pointer]
+            - generic [ref=f1e224]:
+              - button "啤酒鸭 辣 啤酒去腥增香，鸭肉紧实入味，越嚼越香" [ref=f1e225] [cursor=pointer]:
+                - generic [ref=f1e226]:
+                  - paragraph [ref=f1e227]: 啤酒鸭
+                  - generic [ref=f1e228]: 辣
+                - paragraph [ref=f1e229]: 啤酒去腥增香，鸭肉紧实入味，越嚼越香
+              - generic [ref=f1e230]:
+                - generic [ref=f1e231]: 炖菜
+                - generic [ref=f1e232]: 下饭
+                - generic [ref=f1e233]: 家常
+            - button "点啤酒鸭" [ref=f1e234] [cursor=pointer]
+          - generic [ref=f1e236]:
+            - button "麻" [ref=f1e237] [cursor=pointer]
+            - generic [ref=f1e242]:
+              - button "麻婆豆腐 辣辣辣 麻、辣、烫、香、酥、嫩，川菜里的米饭杀手" [ref=f1e243] [cursor=pointer]:
+                - generic [ref=f1e244]:
+                  - paragraph [ref=f1e245]: 麻婆豆腐
+                  - generic [ref=f1e246]: 辣辣辣
+                - paragraph [ref=f1e247]: 麻、辣、烫、香、酥、嫩，川菜里的米饭杀手
+              - generic [ref=f1e248]:
+                - generic [ref=f1e249]: 川菜
+                - generic [ref=f1e250]: 下饭
+                - generic [ref=f1e251]: 麻辣
+            - button "点麻婆豆腐" [ref=f1e252] [cursor=pointer]
+          - generic [ref=f1e254]:
+            - button "京" [ref=f1e255] [cursor=pointer]
+            - generic [ref=f1e260]:
+              - button [ref=f1e261] [cursor=pointer]:
+                - paragraph [ref=f1e263]: 京酱肉丝
+                - paragraph [ref=f1e264]: 酱香浓郁配葱丝，卷在豆皮里一口一个
+              - generic [ref=f1e265]:
+                - generic [ref=f1e266]: 经典
+                - generic [ref=f1e267]: 宴客
+                - generic [ref=f1e268]: 孩子爱吃
+            - button "点京酱肉丝" [ref=f1e269] [cursor=pointer]
+          - generic [ref=f1e271]:
+            - button "梅" [ref=f1e272] [cursor=pointer]
+            - generic [ref=f1e277]:
+              - button [ref=f1e278] [cursor=pointer]:
+                - paragraph [ref=f1e280]: 梅菜扣肉
+                - paragraph [ref=f1e281]: 蒸到入口即化，梅干菜吸油解腻的宴客大菜
+              - generic [ref=f1e282]:
+                - generic [ref=f1e283]: 宴客
+                - generic [ref=f1e284]: 蒸菜
+                - generic [ref=f1e285]: 经典
+            - button "点梅菜扣肉" [ref=f1e286] [cursor=pointer]
+          - generic [ref=f1e288]:
+            - button "香" [ref=f1e289] [cursor=pointer]
+            - generic [ref=f1e294]:
+              - button [ref=f1e295] [cursor=pointer]:
+                - paragraph [ref=f1e297]: 香菇滑鸡
+                - paragraph [ref=f1e298]: 鸡肉嫩滑、香菇鲜香，蒸一蒸就搞定
+              - generic [ref=f1e299]:
+                - generic [ref=f1e300]: 蒸菜
+                - generic [ref=f1e301]: 少油烟
+                - generic [ref=f1e302]: 快手
+            - button "点香菇滑鸡" [ref=f1e303] [cursor=pointer]
+          - generic [ref=f1e305]:
+            - button "孜" [ref=f1e306] [cursor=pointer]
+            - generic [ref=f1e311]:
+              - button "孜然羊肉 辣 大火爆炒孜然香，配洋葱解腻，下酒又下饭" [ref=f1e312] [cursor=pointer]:
+                - generic [ref=f1e313]:
+                  - paragraph [ref=f1e314]: 孜然羊肉
+                  - generic [ref=f1e315]: 辣
+                - paragraph [ref=f1e316]: 大火爆炒孜然香，配洋葱解腻，下酒又下饭
+              - generic [ref=f1e317]:
+                - generic [ref=f1e318]: 爆炒
+                - generic [ref=f1e319]: 下饭
+                - generic [ref=f1e320]: 香辣
+            - button "点孜然羊肉" [ref=f1e321] [cursor=pointer]
+          - generic [ref=f1e323]:
+            - button "葱" [ref=f1e324] [cursor=pointer]
+            - generic [ref=f1e329]:
+              - button [ref=f1e330] [cursor=pointer]:
+                - paragraph [ref=f1e332]: 葱爆牛肉
+                - paragraph [ref=f1e333]: 大葱甜香配上嫩牛肉，三分钟出锅的快手硬菜
+              - generic [ref=f1e334]:
+                - generic [ref=f1e335]: 爆炒
+                - generic [ref=f1e336]: 快手
+                - generic [ref=f1e337]: 下饭
+            - button "点葱爆牛肉" [ref=f1e338] [cursor=pointer]
+          - generic [ref=f1e340]:
+            - button "油" [ref=f1e341] [cursor=pointer]
+            - generic [ref=f1e346]:
+              - button [ref=f1e347] [cursor=pointer]:
+                - paragraph [ref=f1e349]: 油焖大虾
+                - paragraph [ref=f1e350]: 虾壳酥香、汤汁鲜甜，吮指都舍不得浪费
+              - generic [ref=f1e351]:
+                - generic [ref=f1e352]: 海鲜
+                - generic [ref=f1e353]: 宴客
+                - generic [ref=f1e354]: 快手
+            - button "点油焖大虾" [ref=f1e355] [cursor=pointer]
+          - generic [ref=f1e357]:
+            - button "清" [ref=f1e358] [cursor=pointer]
+            - generic [ref=f1e363]:
+              - button [ref=f1e364] [cursor=pointer]:
+                - paragraph [ref=f1e366]: 清蒸鲈鱼
+                - paragraph [ref=f1e367]: 鲜嫩到入口即化，最能吃出鱼本身鲜味的做法
+              - generic [ref=f1e368]:
+                - generic [ref=f1e369]: 海鲜
+                - generic [ref=f1e370]: 蒸菜
+                - generic [ref=f1e371]: 少油烟
+            - button "点清蒸鲈鱼" [ref=f1e372] [cursor=pointer]
+          - generic [ref=f1e374]:
+            - button "红" [ref=f1e375] [cursor=pointer]
+            - generic [ref=f1e380]:
+              - button [ref=f1e381] [cursor=pointer]:
+                - paragraph [ref=f1e383]: 红烧带鱼
+                - paragraph [ref=f1e384]: 外皮微焦、肉质紧实，酱汁浓郁特别下饭
+              - generic [ref=f1e385]:
+                - generic [ref=f1e386]: 海鲜
+                - generic [ref=f1e387]: 下饭
+                - generic [ref=f1e388]: 家常
+            - button "点红烧带鱼" [ref=f1e389] [cursor=pointer]
+          - generic [ref=f1e391]:
+            - button "酸" [ref=f1e392] [cursor=pointer]
+            - generic [ref=f1e397]:
+              - button "酸菜鱼 辣辣 鱼片滑嫩、汤底酸辣开胃，喝汤都能喝两碗" [ref=f1e398] [cursor=pointer]:
+                - generic [ref=f1e399]:
+                  - paragraph [ref=f1e400]: 酸菜鱼
+                  - generic [ref=f1e401]: 辣辣
+                - paragraph [ref=f1e402]: 鱼片滑嫩、汤底酸辣开胃，喝汤都能喝两碗
+              - generic [ref=f1e403]:
+                - generic [ref=f1e404]: 川菜
+                - generic [ref=f1e405]: 酸辣
+                - generic [ref=f1e406]: 宴客
+            - button "点酸菜鱼" [ref=f1e407] [cursor=pointer]
+          - generic [ref=f1e409]:
+            - button "辣" [ref=f1e410] [cursor=pointer]
+            - generic [ref=f1e415]:
+              - button "辣子鸡 辣辣辣 在辣椒堆里找鸡丁，外酥里嫩越嚼越香" [ref=f1e416] [cursor=pointer]:
+                - generic [ref=f1e417]:
+                  - paragraph [ref=f1e418]: 辣子鸡
+                  - generic [ref=f1e419]: 辣辣辣
+                - paragraph [ref=f1e420]: 在辣椒堆里找鸡丁，外酥里嫩越嚼越香
+              - generic [ref=f1e421]:
+                - generic [ref=f1e422]: 川菜
+                - generic [ref=f1e423]: 麻辣
+                - generic [ref=f1e424]: 下酒
+            - button "点辣子鸡" [ref=f1e425] [cursor=pointer]
+          - generic [ref=f1e427]:
+            - button "三" [ref=f1e428] [cursor=pointer]
+            - generic [ref=f1e433]:
+              - button [ref=f1e434] [cursor=pointer]:
+                - paragraph [ref=f1e436]: 三杯鸡
+                - paragraph [ref=f1e437]: 一杯米酒一杯酱油一杯麻油，香气层层叠出来
+              - generic [ref=f1e438]:
+                - generic [ref=f1e439]: 经典
+                - generic [ref=f1e440]: 下饭
+                - generic [ref=f1e441]: 宴客
+            - button "点三杯鸡" [ref=f1e442] [cursor=pointer]
+          - generic [ref=f1e444]:
+            - button "蚂" [ref=f1e445] [cursor=pointer]
+            - generic [ref=f1e450]:
+              - button "蚂蚁上树 辣 肉末粘在粉丝上像蚂蚁爬树，香辣又实惠" [ref=f1e451] [cursor=pointer]:
+                - generic [ref=f1e452]:
+                  - paragraph [ref=f1e453]: 蚂蚁上树
+                  - generic [ref=f1e454]: 辣
+                - paragraph [ref=f1e455]: 肉末粘在粉丝上像蚂蚁爬树，香辣又实惠
+              - generic [ref=f1e456]:
+                - generic [ref=f1e457]: 川菜
+                - generic [ref=f1e458]: 下饭
+                - generic [ref=f1e459]: 实惠
+            - button "点蚂蚁上树" [ref=f1e460] [cursor=pointer]
+          - generic [ref=f1e462]:
+            - button "干" [ref=f1e463] [cursor=pointer]
+            - generic [ref=f1e468]:
+              - button "干煸四季豆 辣辣 表皮起皱、干香微辣，素菜里的下饭第一名" [ref=f1e469] [cursor=pointer]:
+                - generic [ref=f1e470]:
+                  - paragraph [ref=f1e471]: 干煸四季豆
+                  - generic [ref=f1e472]: 辣辣
+                - paragraph [ref=f1e473]: 表皮起皱、干香微辣，素菜里的下饭第一名
+              - generic [ref=f1e474]:
+                - generic [ref=f1e475]: 川菜
+                - generic [ref=f1e476]: 下饭
+                - generic [ref=f1e477]: 素食
+            - button "点干煸四季豆" [ref=f1e478] [cursor=pointer]
+          - generic [ref=f1e480]:
+            - button "手" [ref=f1e481] [cursor=pointer]
+            - generic [ref=f1e486]:
+              - button "手撕包菜 辣 手撕断面更挂汁，猛火快炒脆爽不出水" [ref=f1e487] [cursor=pointer]:
+                - generic [ref=f1e488]:
+                  - paragraph [ref=f1e489]: 手撕包菜
+                  - generic [ref=f1e490]: 辣
+                - paragraph [ref=f1e491]: 手撕断面更挂汁，猛火快炒脆爽不出水
+              - generic [ref=f1e492]:
+                - generic [ref=f1e493]: 快手
+                - generic [ref=f1e494]: 素食
+                - generic [ref=f1e495]: 下饭
+            - button "点手撕包菜" [ref=f1e496] [cursor=pointer]
+          - generic [ref=f1e498]:
+            - button "蒜" [ref=f1e499] [cursor=pointer]
+            - generic [ref=f1e504]:
+              - button [ref=f1e505] [cursor=pointer]:
+                - paragraph [ref=f1e507]: 蒜蓉西兰花
+                - paragraph [ref=f1e508]: 翠绿爽脆蒜香浓，十分钟搞定的健康快手菜
+              - generic [ref=f1e509]:
+                - generic [ref=f1e510]: 快手
+                - generic [ref=f1e511]: 素食
+                - generic [ref=f1e512]: 清淡
+            - button "点蒜蓉西兰花" [ref=f1e513] [cursor=pointer]
+          - generic [ref=f1e515]:
+            - button "地" [ref=f1e516] [cursor=pointer]
+            - generic [ref=f1e521]:
+              - button [ref=f1e522] [cursor=pointer]:
+                - paragraph [ref=f1e524]: 地三鲜
+                - paragraph [ref=f1e525]: 茄子土豆青椒三样家常食材，酱香浓郁特别下饭
+              - generic [ref=f1e526]:
+                - generic [ref=f1e527]: 东北菜
+                - generic [ref=f1e528]: 下饭
+                - generic [ref=f1e529]: 素食
+            - button "点地三鲜" [ref=f1e530] [cursor=pointer]
+          - generic [ref=f1e532]:
+            - button "醋" [ref=f1e533] [cursor=pointer]
+            - generic [ref=f1e538]:
+              - button [ref=f1e539] [cursor=pointer]:
+                - paragraph [ref=f1e541]: 醋溜白菜
+                - paragraph [ref=f1e542]: 酸香开胃、脆嫩爽口，冬天最家常的一道
+              - generic [ref=f1e543]:
+                - generic [ref=f1e544]: 快手
+                - generic [ref=f1e545]: 素食
+                - generic [ref=f1e546]: 开胃
+            - button "点醋溜白菜" [ref=f1e547] [cursor=pointer]
+          - generic [ref=f1e549]:
+            - button "蒜" [ref=f1e550] [cursor=pointer]
+            - generic [ref=f1e555]:
+              - button [ref=f1e556] [cursor=pointer]:
+                - paragraph [ref=f1e558]: 蒜蓉空心菜
+                - paragraph [ref=f1e559]: 大火猛炒三十秒，翠绿不出水的秘诀就在锅够热
+              - generic [ref=f1e560]:
+                - generic [ref=f1e561]: 快手
+                - generic [ref=f1e562]: 素食
+                - generic [ref=f1e563]: 清淡
+            - button "点蒜蓉空心菜" [ref=f1e564] [cursor=pointer]
+          - generic [ref=f1e566]:
+            - button "红" [ref=f1e567] [cursor=pointer]
+            - generic [ref=f1e572]:
+              - button [ref=f1e573] [cursor=pointer]:
+                - paragraph [ref=f1e575]: 红烧茄子
+                - paragraph [ref=f1e576]: 软糯入味裹满酱汁，不用油炸也很好吃的做法
+              - generic [ref=f1e577]:
+                - generic [ref=f1e578]: 下饭
+                - generic [ref=f1e579]: 素食
+                - generic [ref=f1e580]: 家常
+            - button "点红烧茄子" [ref=f1e581] [cursor=pointer]
+          - generic [ref=f1e583]:
+            - button "干" [ref=f1e584] [cursor=pointer]
+            - generic [ref=f1e589]:
+              - button "干锅花菜 辣辣 焦香微辣越嚼越香，素菜做出了肉的味道" [ref=f1e590] [cursor=pointer]:
+                - generic [ref=f1e591]:
+                  - paragraph [ref=f1e592]: 干锅花菜
+                  - generic [ref=f1e593]: 辣辣
+                - paragraph [ref=f1e594]: 焦香微辣越嚼越香，素菜做出了肉的味道
+              - generic [ref=f1e595]:
+                - generic [ref=f1e596]: 香辣
+                - generic [ref=f1e597]: 素食
+                - generic [ref=f1e598]: 下饭
+            - button "点干锅花菜" [ref=f1e599] [cursor=pointer]
+          - generic [ref=f1e601]:
+            - button "虎" [ref=f1e602] [cursor=pointer]
+            - generic [ref=f1e607]:
+              - button "虎皮青椒 辣 表皮起虎皮斑，蒜香酱汁一拌，两碗饭打不住" [ref=f1e608] [cursor=pointer]:
+                - generic [ref=f1e609]:
+                  - paragraph [ref=f1e610]: 虎皮青椒
+                  - generic [ref=f1e611]: 辣
+                - paragraph [ref=f1e612]: 表皮起虎皮斑，蒜香酱汁一拌，两碗饭打不住
+              - generic [ref=f1e613]:
+                - generic [ref=f1e614]: 下饭
+                - generic [ref=f1e615]: 素食
+                - generic [ref=f1e616]: 快手
+            - button "点虎皮青椒" [ref=f1e617] [cursor=pointer]
+          - generic [ref=f1e619]:
+            - button "蚝" [ref=f1e620] [cursor=pointer]
+            - generic [ref=f1e625]:
+              - button [ref=f1e626] [cursor=pointer]:
+                - paragraph [ref=f1e628]: 蚝油生菜
+                - paragraph [ref=f1e629]: 三十秒焯烫浇汁，翠绿爽脆最简单的一道青菜
+              - generic [ref=f1e630]:
+                - generic [ref=f1e631]: 快手
+                - generic [ref=f1e632]: 素食
+                - generic [ref=f1e633]: 清淡
+            - button "点蚝油生菜" [ref=f1e634] [cursor=pointer]
+          - generic [ref=f1e636]:
+            - button "韭" [ref=f1e637] [cursor=pointer]
+            - generic [ref=f1e642]:
+              - button [ref=f1e643] [cursor=pointer]:
+                - paragraph [ref=f1e645]: 韭菜炒蛋
+                - paragraph [ref=f1e646]: 春天的第一口鲜，韭菜辛香配蛋香最下饭
+              - generic [ref=f1e647]:
+                - generic [ref=f1e648]: 快手
+                - generic [ref=f1e649]: 素食
+                - generic [ref=f1e650]: 家常
+            - button "点韭菜炒蛋" [ref=f1e651] [cursor=pointer]
+          - generic [ref=f1e653]:
+            - button "香" [ref=f1e654] [cursor=pointer]
+            - generic [ref=f1e659]:
+              - button "香煎豆腐 辣 外皮金黄内里嫩滑，裹上酱汁比肉还香" [ref=f1e660] [cursor=pointer]:
+                - generic [ref=f1e661]:
+                  - paragraph [ref=f1e662]: 香煎豆腐
+                  - generic [ref=f1e663]: 辣
+                - paragraph [ref=f1e664]: 外皮金黄内里嫩滑，裹上酱汁比肉还香
+              - generic [ref=f1e665]:
+                - generic [ref=f1e666]: 素食
+                - generic [ref=f1e667]: 下饭
+                - generic [ref=f1e668]: 实惠
+            - button "点香煎豆腐" [ref=f1e669] [cursor=pointer]
+          - generic [ref=f1e671]:
+            - button "清" [ref=f1e672] [cursor=pointer]
+            - generic [ref=f1e677]:
+              - button [ref=f1e678] [cursor=pointer]:
+                - paragraph [ref=f1e680]: 清炒西葫芦
+                - paragraph [ref=f1e681]: 清淡脆嫩带点甜，配荤菜最解腻
+              - generic [ref=f1e682]:
+                - generic [ref=f1e683]: 快手
+                - generic [ref=f1e684]: 素食
+                - generic [ref=f1e685]: 清淡
+            - button "点清炒西葫芦" [ref=f1e686] [cursor=pointer]
+          - generic [ref=f1e688]:
+            - button "酸" [ref=f1e689] [cursor=pointer]
+            - generic [ref=f1e694]:
+              - button "酸辣土豆丝 辣辣 脆爽酸辣，考验刀工但五分钟就能上桌" [ref=f1e695] [cursor=pointer]:
+                - generic [ref=f1e696]:
+                  - paragraph [ref=f1e697]: 酸辣土豆丝
+                  - generic [ref=f1e698]: 辣辣
+                - paragraph [ref=f1e699]: 脆爽酸辣，考验刀工但五分钟就能上桌
+              - generic [ref=f1e700]:
+                - generic [ref=f1e701]: 快手
+                - generic [ref=f1e702]: 素食
+                - generic [ref=f1e703]: 开胃
+            - button "点酸辣土豆丝" [ref=f1e704] [cursor=pointer]
+          - generic [ref=f1e706]:
+            - button "香" [ref=f1e707] [cursor=pointer]
+            - generic [ref=f1e712]:
+              - button [ref=f1e713] [cursor=pointer]:
+                - paragraph [ref=f1e715]: 香菇油菜
+                - paragraph [ref=f1e716]: 香菇的鲜渗进油菜，清淡但很鲜的一道家常青菜
+              - generic [ref=f1e717]:
+                - generic [ref=f1e718]: 素食
+                - generic [ref=f1e719]: 清淡
+                - generic [ref=f1e720]: 快手
+            - button "点香菇油菜" [ref=f1e721] [cursor=pointer]
+          - generic [ref=f1e723]:
+            - button "家" [ref=f1e724] [cursor=pointer]
+            - generic [ref=f1e729]:
+              - button [ref=f1e730] [cursor=pointer]:
+                - paragraph [ref=f1e732]: 家常烧冬瓜
+                - paragraph [ref=f1e733]: 冬瓜烧到半透明，吸满汤汁比肉还抢手
+              - generic [ref=f1e734]:
+                - generic [ref=f1e735]: 素食
+                - generic [ref=f1e736]: 清淡
+                - generic [ref=f1e737]: 实惠
+            - button "点家常烧冬瓜" [ref=f1e738] [cursor=pointer]
+          - generic [ref=f1e740]:
+            - button "番" [ref=f1e741] [cursor=pointer]
+            - generic [ref=f1e746]:
+              - button [ref=f1e747] [cursor=pointer]:
+                - paragraph [ref=f1e749]: 番茄蛋花汤
+                - paragraph [ref=f1e750]: 五分钟出锅的国民快手汤，酸甜开胃
+              - generic [ref=f1e751]:
+                - generic [ref=f1e752]: 快手
+                - generic [ref=f1e753]: 清淡
+                - generic [ref=f1e754]: 家常
+            - button "点番茄蛋花汤" [ref=f1e755] [cursor=pointer]
+          - generic [ref=f1e757]:
+            - button "紫" [ref=f1e758] [cursor=pointer]
+            - generic [ref=f1e763]:
+              - button [ref=f1e764] [cursor=pointer]:
+                - paragraph [ref=f1e766]: 紫菜虾皮汤
+                - paragraph [ref=f1e767]: 两分钟就能端上桌的鲜味清汤，配饭配面都合适
+              - generic [ref=f1e768]:
+                - generic [ref=f1e769]: 快手
+                - generic [ref=f1e770]: 清淡
+                - generic [ref=f1e771]: 家常
+            - button "点紫菜虾皮汤" [ref=f1e772] [cursor=pointer]
+          - generic [ref=f1e774]:
+            - button "冬" [ref=f1e775] [cursor=pointer]
+            - generic [ref=f1e780]:
+              - button [ref=f1e781] [cursor=pointer]:
+                - paragraph [ref=f1e783]: 冬瓜排骨汤
+                - paragraph [ref=f1e784]: 清甜解腻，夏天喝最舒服的一锅老火汤
+              - generic [ref=f1e785]:
+                - generic [ref=f1e786]: 炖汤
+                - generic [ref=f1e787]: 清淡
+                - generic [ref=f1e788]: 家常
+            - button "点冬瓜排骨汤" [ref=f1e789] [cursor=pointer]
+          - generic [ref=f1e791]:
+            - button "玉" [ref=f1e792] [cursor=pointer]
+            - generic [ref=f1e797]:
+              - button [ref=f1e798] [cursor=pointer]:
+                - paragraph [ref=f1e800]: 玉米胡萝卜排骨汤
+                - paragraph [ref=f1e801]: 汤色金黄微甜，孩子最爱喝的营养汤
+              - generic [ref=f1e802]:
+                - generic [ref=f1e803]: 炖汤
+                - generic [ref=f1e804]: 清淡
+                - generic [ref=f1e805]: 孩子爱吃
+            - button "点玉米胡萝卜排骨汤" [ref=f1e806] [cursor=pointer]
+          - generic [ref=f1e808]:
+            - button "鲫" [ref=f1e809] [cursor=pointer]
+            - generic [ref=f1e814]:
+              - button [ref=f1e815] [cursor=pointer]:
+                - paragraph [ref=f1e817]: 鲫鱼豆腐汤
+                - paragraph [ref=f1e818]: 煎过的鱼煮出奶白汤，鲜到不需要任何调料
+              - generic [ref=f1e819]:
+                - generic [ref=f1e820]: 炖汤
+                - generic [ref=f1e821]: 海鲜
+                - generic [ref=f1e822]: 滋补
+            - button "点鲫鱼豆腐汤" [ref=f1e823] [cursor=pointer]
+          - generic [ref=f1e825]:
+            - button "菌" [ref=f1e826] [cursor=pointer]
+            - generic [ref=f1e831]:
+              - button [ref=f1e832] [cursor=pointer]:
+                - paragraph [ref=f1e834]: 菌菇鸡汤
+                - paragraph [ref=f1e835]: 多种菌菇炖出自然鲜味，暖胃又滋补
+              - generic [ref=f1e836]:
+                - generic [ref=f1e837]: 炖汤
+                - generic [ref=f1e838]: 滋补
+                - generic [ref=f1e839]: 清淡
+            - button "点菌菇鸡汤" [ref=f1e840] [cursor=pointer]
+          - generic [ref=f1e842]:
+            - button "酸" [ref=f1e843] [cursor=pointer]
+            - generic [ref=f1e848]:
+              - button "酸辣汤 辣辣 酸辣开胃、料足浓稠，一碗下肚浑身暖" [ref=f1e849] [cursor=pointer]:
+                - generic [ref=f1e850]:
+                  - paragraph [ref=f1e851]: 酸辣汤
+                  - generic [ref=f1e852]: 辣辣
+                - paragraph [ref=f1e853]: 酸辣开胃、料足浓稠，一碗下肚浑身暖
+              - generic [ref=f1e854]:
+                - generic [ref=f1e855]: 酸辣
+                - generic [ref=f1e856]: 开胃
+                - generic [ref=f1e857]: 经典
+            - button "点酸辣汤" [ref=f1e858] [cursor=pointer]
+          - generic [ref=f1e860]:
+            - button "银" [ref=f1e861] [cursor=pointer]
+            - generic [ref=f1e866]:
+              - button [ref=f1e867] [cursor=pointer]:
+                - paragraph [ref=f1e869]: 银耳莲子羹
+                - paragraph [ref=f1e870]: 炖到出胶的甜羹，润燥又好喝，全家都适合
+              - generic [ref=f1e871]:
+                - generic [ref=f1e872]: 甜品
+                - generic [ref=f1e873]: 滋补
+                - generic [ref=f1e874]: 炖汤
+            - button "点银耳莲子羹" [ref=f1e875] [cursor=pointer]
+          - generic [ref=f1e877]:
+            - button "萝" [ref=f1e878] [cursor=pointer]
+            - generic [ref=f1e883]:
+              - button [ref=f1e884] [cursor=pointer]:
+                - paragraph [ref=f1e886]: 萝卜牛腩汤
+                - paragraph [ref=f1e887]: 牛腩酥烂萝卜清甜，秋冬最暖身的一锅
+              - generic [ref=f1e888]:
+                - generic [ref=f1e889]: 炖汤
+                - generic [ref=f1e890]: 滋补
+                - generic [ref=f1e891]: 家常
+            - button "点萝卜牛腩汤" [ref=f1e892] [cursor=pointer]
+          - generic [ref=f1e894]:
+            - button "丝" [ref=f1e895] [cursor=pointer]
+            - generic [ref=f1e900]:
+              - button [ref=f1e901] [cursor=pointer]:
+                - paragraph [ref=f1e903]: 丝瓜蛋汤
+                - paragraph [ref=f1e904]: 清甜爽口，十分钟搞定的夏日快手汤
+              - generic [ref=f1e905]:
+                - generic [ref=f1e906]: 快手
+                - generic [ref=f1e907]: 清淡
+                - generic [ref=f1e908]: 家常
+            - button "点丝瓜蛋汤" [ref=f1e909] [cursor=pointer]
+          - generic [ref=f1e911]:
+            - button "蛋" [ref=f1e912] [cursor=pointer]
+            - generic [ref=f1e917]:
+              - button [ref=f1e918] [cursor=pointer]:
+                - paragraph [ref=f1e920]: 蛋炒饭
+                - paragraph [ref=f1e921]: 隔夜饭的最佳归宿，粒粒分明锅气十足
+              - generic [ref=f1e922]:
+                - generic [ref=f1e923]: 快手
+                - generic [ref=f1e924]: 主食
+                - generic [ref=f1e925]: 零失败
+            - button "点蛋炒饭" [ref=f1e926] [cursor=pointer]
+          - generic [ref=f1e928]:
+            - button "腊" [ref=f1e929] [cursor=pointer]
+            - generic [ref=f1e934]:
+              - button [ref=f1e935] [cursor=pointer]:
+                - paragraph [ref=f1e937]: 腊肠炒饭
+                - paragraph [ref=f1e938]: 腊肠的油香渗进每粒米，一锅解决一餐
+              - generic [ref=f1e939]:
+                - generic [ref=f1e940]: 主食
+                - generic [ref=f1e941]: 快手
+                - generic [ref=f1e942]: 家常
+            - button "点腊肠炒饭" [ref=f1e943] [cursor=pointer]
+          - generic [ref=f1e945]:
+            - button "番" [ref=f1e946] [cursor=pointer]
+            - generic [ref=f1e951]:
+              - button [ref=f1e952] [cursor=pointer]:
+                - paragraph [ref=f1e954]: 番茄鸡蛋面
+                - paragraph [ref=f1e955]: 汤浓面滑，十分钟就能吃上的暖胃一餐
+              - generic [ref=f1e956]:
+                - generic [ref=f1e957]: 主食
+                - generic [ref=f1e958]: 快手
+                - generic [ref=f1e959]: 家常
+            - button "点番茄鸡蛋面" [ref=f1e960] [cursor=pointer]
+          - generic [ref=f1e962]:
+            - button "葱" [ref=f1e963] [cursor=pointer]
+            - generic [ref=f1e968]:
+              - button [ref=f1e969] [cursor=pointer]:
+                - paragraph [ref=f1e971]: 葱油拌面
+                - paragraph [ref=f1e972]: 熬一罐葱油随取随拌，香气能把人从床上叫起来
+              - generic [ref=f1e973]:
+                - generic [ref=f1e974]: 主食
+                - generic [ref=f1e975]: 快手
+                - generic [ref=f1e976]: 经典
+            - button "点葱油拌面" [ref=f1e977] [cursor=pointer]
+          - generic [ref=f1e979]:
+            - button "家" [ref=f1e980] [cursor=pointer]
+            - generic [ref=f1e985]:
+              - button [ref=f1e986] [cursor=pointer]:
+                - paragraph [ref=f1e988]: 家常炸酱面
+                - paragraph [ref=f1e989]: 酱香浓郁的肉丁炸酱，配黄瓜丝爽口不腻
+              - generic [ref=f1e990]:
+                - generic [ref=f1e991]: 主食
+                - generic [ref=f1e992]: 经典
+                - generic [ref=f1e993]: 下饭
+            - button "点家常炸酱面" [ref=f1e994] [cursor=pointer]
+          - generic [ref=f1e996]:
+            - button "红" [ref=f1e997] [cursor=pointer]
+            - generic [ref=f1e1002]:
+              - button "红烧牛肉面 辣 牛腩炖到软烂，汤头红亮，一碗顶饱又满足" [ref=f1e1003] [cursor=pointer]:
+                - generic [ref=f1e1004]:
+                  - paragraph [ref=f1e1005]: 红烧牛肉面
+                  - generic [ref=f1e1006]: 辣
+                - paragraph [ref=f1e1007]: 牛腩炖到软烂，汤头红亮，一碗顶饱又满足
+              - generic [ref=f1e1008]:
+                - generic [ref=f1e1009]: 主食
+                - generic [ref=f1e1010]: 炖菜
+                - generic [ref=f1e1011]: 经典
+            - button "点红烧牛肉面" [ref=f1e1012] [cursor=pointer]
+          - generic [ref=f1e1014]:
+            - button "猪" [ref=f1e1015] [cursor=pointer]
+            - generic [ref=f1e1020]:
+              - button [ref=f1e1021] [cursor=pointer]:
+                - paragraph [ref=f1e1023]: 猪肉白菜饺子
+                - paragraph [ref=f1e1024]: 全家一起包的周末仪式感，皮薄馅大汁水足
+              - generic [ref=f1e1025]:
+                - generic [ref=f1e1026]: 主食
+                - generic [ref=f1e1027]: 宴客
+                - generic [ref=f1e1028]: 经典
+            - button "点猪肉白菜饺子" [ref=f1e1029] [cursor=pointer]
+          - generic [ref=f1e1031]:
+            - button "韭" [ref=f1e1032] [cursor=pointer]
+            - generic [ref=f1e1037]:
+              - button [ref=f1e1038] [cursor=pointer]:
+                - paragraph [ref=f1e1040]: 韭菜鸡蛋饺子
+                - paragraph [ref=f1e1041]: 素馅里的天花板，鲜香多汁一点不腻
+              - generic [ref=f1e1042]:
+                - generic [ref=f1e1043]: 主食
+                - generic [ref=f1e1044]: 素食
+                - generic [ref=f1e1045]: 经典
+            - button "点韭菜鸡蛋饺子" [ref=f1e1046] [cursor=pointer]
+          - generic [ref=f1e1048]:
+            - button "皮" [ref=f1e1049] [cursor=pointer]
+            - generic [ref=f1e1054]:
+              - button [ref=f1e1055] [cursor=pointer]:
+                - paragraph [ref=f1e1057]: 皮蛋瘦肉粥
+                - paragraph [ref=f1e1058]: 绵密顺滑，早餐夜宵都合适的一碗暖粥
+              - generic [ref=f1e1059]:
+                - generic [ref=f1e1060]: 主食
+                - generic [ref=f1e1061]: 清淡
+                - generic [ref=f1e1062]: 滋补
+            - button "点皮蛋瘦肉粥" [ref=f1e1063] [cursor=pointer]
+          - generic [ref=f1e1065]:
+            - button "小" [ref=f1e1066] [cursor=pointer]
+            - generic [ref=f1e1071]:
+              - button [ref=f1e1072] [cursor=pointer]:
+                - paragraph [ref=f1e1074]: 小米南瓜粥
+                - paragraph [ref=f1e1075]: 自然甜味的养胃粥，老人小孩都爱喝
+              - generic [ref=f1e1076]:
+                - generic [ref=f1e1077]: 主食
+                - generic [ref=f1e1078]: 清淡
+                - generic [ref=f1e1079]: 滋补
+            - button "点小米南瓜粥" [ref=f1e1080] [cursor=pointer]
+          - generic [ref=f1e1082]:
+            - button "葱" [ref=f1e1083] [cursor=pointer]
+            - generic [ref=f1e1088]:
+              - button [ref=f1e1089] [cursor=pointer]:
+                - paragraph [ref=f1e1091]: 葱花鸡蛋饼
+                - paragraph [ref=f1e1092]: 外脆里软层次分明，早餐十分钟搞定
+              - generic [ref=f1e1093]:
+                - generic [ref=f1e1094]: 主食
+                - generic [ref=f1e1095]: 快手
+                - generic [ref=f1e1096]: 早餐
+            - button "点葱花鸡蛋饼" [ref=f1e1097] [cursor=pointer]
+          - generic [ref=f1e1099]:
+            - button "腊" [ref=f1e1100] [cursor=pointer]
+            - generic [ref=f1e1105]:
+              - button [ref=f1e1106] [cursor=pointer]:
+                - paragraph [ref=f1e1108]: 腊味煲仔饭
+                - paragraph [ref=f1e1109]: 锅底一层金黄锅巴，腊味油香全渗进米饭
+              - generic [ref=f1e1110]:
+                - generic [ref=f1e1111]: 主食
+                - generic [ref=f1e1112]: 经典
+                - generic [ref=f1e1113]: 宴客
+            - button "点腊味煲仔饭" [ref=f1e1114] [cursor=pointer]
+          - generic [ref=f1e1116]:
+            - button "凉" [ref=f1e1117] [cursor=pointer]
+            - generic [ref=f1e1122]:
+              - button "凉拌黄瓜 辣 拍碎更入味，蒜香酸辣，夏天的开胃担当" [ref=f1e1123] [cursor=pointer]:
+                - generic [ref=f1e1124]:
+                  - paragraph [ref=f1e1125]: 凉拌黄瓜
+                  - generic [ref=f1e1126]: 辣
+                - paragraph [ref=f1e1127]: 拍碎更入味，蒜香酸辣，夏天的开胃担当
+              - generic [ref=f1e1128]:
+                - generic [ref=f1e1129]: 凉菜
+                - generic [ref=f1e1130]: 快手
+                - generic [ref=f1e1131]: 开胃
+            - button "点凉拌黄瓜" [ref=f1e1132] [cursor=pointer]
+          - generic [ref=f1e1134]:
+            - button "口" [ref=f1e1135] [cursor=pointer]
+            - generic [ref=f1e1140]:
+              - button "口水鸡 辣辣辣 麻辣鲜香一层层叠上来，名字就让人流口水" [ref=f1e1141] [cursor=pointer]:
+                - generic [ref=f1e1142]:
+                  - paragraph [ref=f1e1143]: 口水鸡
+                  - generic [ref=f1e1144]: 辣辣辣
+                - paragraph [ref=f1e1145]: 麻辣鲜香一层层叠上来，名字就让人流口水
+              - generic [ref=f1e1146]:
+                - generic [ref=f1e1147]: 川菜
+                - generic [ref=f1e1148]: 凉菜
+                - generic [ref=f1e1149]: 麻辣
+            - button "点口水鸡" [ref=f1e1150] [cursor=pointer]
+          - generic [ref=f1e1152]:
+            - button "皮" [ref=f1e1153] [cursor=pointer]
+            - generic [ref=f1e1158]:
+              - button "皮蛋豆腐 辣 两分钟端上桌的经典凉菜，清爽又下酒" [ref=f1e1159] [cursor=pointer]:
+                - generic [ref=f1e1160]:
+                  - paragraph [ref=f1e1161]: 皮蛋豆腐
+                  - generic [ref=f1e1162]: 辣
+                - paragraph [ref=f1e1163]: 两分钟端上桌的经典凉菜，清爽又下酒
+              - generic [ref=f1e1164]:
+                - generic [ref=f1e1165]: 凉菜
+                - generic [ref=f1e1166]: 快手
+                - generic [ref=f1e1167]: 清淡
+            - button "点皮蛋豆腐" [ref=f1e1168] [cursor=pointer]
+          - generic [ref=f1e1170]:
+            - button "凉" [ref=f1e1171] [cursor=pointer]
+            - generic [ref=f1e1176]:
+              - button "凉拌黑木耳 辣 脆爽弹牙，酸辣开胃又解腻的一道小菜" [ref=f1e1177] [cursor=pointer]:
+                - generic [ref=f1e1178]:
+                  - paragraph [ref=f1e1179]: 凉拌黑木耳
+                  - generic [ref=f1e1180]: 辣
+                - paragraph [ref=f1e1181]: 脆爽弹牙，酸辣开胃又解腻的一道小菜
+              - generic [ref=f1e1182]:
+                - generic [ref=f1e1183]: 凉菜
+                - generic [ref=f1e1184]: 素食
+                - generic [ref=f1e1185]: 开胃
+            - button "点凉拌黑木耳" [ref=f1e1186] [cursor=pointer]
+          - generic [ref=f1e1188]:
+            - button "凉" [ref=f1e1189] [cursor=pointer]
+            - generic [ref=f1e1194]:
+              - button [ref=f1e1195] [cursor=pointer]:
+                - paragraph [ref=f1e1197]: 凉拌菠菜
+                - paragraph [ref=f1e1198]: 焯水去涩后拌上蒜香汁，清爽解腻
+              - generic [ref=f1e1199]:
+                - generic [ref=f1e1200]: 凉菜
+                - generic [ref=f1e1201]: 素食
+                - generic [ref=f1e1202]: 清淡
+            - button "点凉拌菠菜" [ref=f1e1203] [cursor=pointer]
+          - generic [ref=f1e1205]:
+            - button "卤" [ref=f1e1206] [cursor=pointer]
+            - generic [ref=f1e1211]:
+              - button [ref=f1e1212] [cursor=pointer]:
+                - paragraph [ref=f1e1214]: 卤牛肉
+                - paragraph [ref=f1e1215]: 提前卤好冷藏，随切随吃的下酒硬菜
+              - generic [ref=f1e1216]:
+                - generic [ref=f1e1217]: 凉菜
+                - generic [ref=f1e1218]: 宴客
+                - generic [ref=f1e1219]: 经典
+            - button "点卤牛肉" [ref=f1e1220] [cursor=pointer]
+          - generic [ref=f1e1222]:
+            - button "凉" [ref=f1e1223] [cursor=pointer]
+            - generic [ref=f1e1228]:
+              - button "凉拌三丝 辣 三种颜色三种口感，清脆爽口的经典配菜" [ref=f1e1229] [cursor=pointer]:
+                - generic [ref=f1e1230]:
+                  - paragraph [ref=f1e1231]: 凉拌三丝
+                  - generic [ref=f1e1232]: 辣
+                - paragraph [ref=f1e1233]: 三种颜色三种口感，清脆爽口的经典配菜
+              - generic [ref=f1e1234]:
+                - generic [ref=f1e1235]: 凉菜
+                - generic [ref=f1e1236]: 素食
+                - generic [ref=f1e1237]: 开胃
+            - button "点凉拌三丝" [ref=f1e1238] [cursor=pointer]
+          - generic [ref=f1e1240]:
+            - button "白" [ref=f1e1241] [cursor=pointer]
+            - generic [ref=f1e1246]:
+              - button [ref=f1e1247] [cursor=pointer]:
+                - paragraph [ref=f1e1249]: 白切鸡
+                - paragraph [ref=f1e1250]: 浸而不煮，皮爽肉滑骨带血，最考验火候
+              - generic [ref=f1e1251]:
+                - generic [ref=f1e1252]: 凉菜
+                - generic [ref=f1e1253]: 宴客
+                - generic [ref=f1e1254]: 经典
+            - button "点白切鸡" [ref=f1e1255] [cursor=pointer]
+      - button [ref=f1e1361] [cursor=pointer]:
+        - generic [ref=f1e1265]:
+          - paragraph [ref=f1e1266]: 全家已点 2 份 · 2 道菜
+          - paragraph [ref=f1e1267]: 冒烟 1 · 小宝 1
+    - navigation [ref=f1e1270]:
+      - generic [ref=f1e1271]:
+        - button "2 今日餐桌" [ref=f1e1362] [cursor=pointer]:
+          - generic [ref=f1e1273]: "2"
+          - generic [ref=f1e1280]: 今日餐桌
+        - button "菜谱" [ref=f1e1282] [cursor=pointer]
+        - button "心愿" [ref=f1e1287] [cursor=pointer]
+        - button "我的" [ref=f1e1292] [cursor=pointer]
+  - region "Notifications alt+T":
+    - list:
+      - listitem [ref=f1e1363]:
+        - generic [ref=f1e1367]: 已加入 红烧肉 ×1

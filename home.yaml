@@ -1,0 +1,16 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]: 家庭点餐
+      - heading "我家小厨房" [level=1] [ref=f1e9]
+      - paragraph [ref=f1e10]: 今天想吃什么？点完我来做～
+      - button "换个氛围色" [ref=f1e11] [cursor=pointer]
+    - generic [ref=f1e12]:
+      - generic [ref=f1e13]:
+        - generic [ref=f1e14]: 你的昵称
+        - textbox "比如：爸爸 / 小宝 / 老李" [ref=f1e15]
+        - button "进入今日餐桌" [ref=f1e16] [cursor=pointer]
+        - paragraph [ref=f1e17]: 免登录模式：填个昵称就能点餐，家里人一眼就知道是谁点的
+      - button "管理员入口（管菜谱 / 看订单）" [ref=f1e18] [cursor=pointer]
+      - paragraph [ref=f1e22]: 数据存储方式：腾讯云开发 CloudBase（全家实时同步）
+  - region "Notifications alt+T"
